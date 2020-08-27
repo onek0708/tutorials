@@ -1,7 +1,7 @@
-BASIC CRUD API with Spring Boot
-================================
+## JMeter
 
-This is the code of a simple API for some CRUD operations build using Spring Boot.
+This module contains articles about JMeter.
+It contains the code of a simple API for some CRUD operations built using Spring Boot.
 
 ### Requirements
 
@@ -39,3 +39,8 @@ $ curl -X POST -H "Content-Type:application/json" -d '{ "firstName" : "Dassi", "
 Now with default configurations it will be available at: [http://localhost:8080](http://localhost:8080)
 
 Enjoy it :)
+
+### Relevant Articles:
+
+- [Intro to Performance Testing using JMeter](https://www.baeldung.com/jmeter)
+- [Configure Jenkins to Run and Show JMeter Tests](https://www.baeldung.com/jenkins-and-jmeter)

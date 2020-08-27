@@ -1,5 +1,12 @@
-BASIC CRUD API with Spring Boot
-================================
+## Spring Jenkins
+
+This module contains articles about Spring with Jenkins
+
+### Relevant articles
+
+- [Intro to Jenkins 2 and the Power of Pipelines](https://www.baeldung.com/jenkins-pipelines)
+
+## Basic CRUD API with Spring Boot
 
 This is the code of a simple API for some CRUD operations build using Spring Boot.
 
@@ -10,7 +17,6 @@ This is the code of a simple API for some CRUD operations build using Spring Boo
 - MongoDB
 
 ### Running
-
 To build and start the server simply type
 
 ```bash
